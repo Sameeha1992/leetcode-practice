@@ -3,19 +3,20 @@
  * @return {number}
  */
 var reverse = function(x) {
-    let resArr=[]
-    let str= String(x);
-     for(let i=str.length-1;i>=0;i--){
-        if(str[i] !=="-"){
-            resArr.push(str[i])
-        }else{
-            resArr.unshift(str[i])
-        }
-     }
-     let res = resArr.join("");
+    let max_Int = (2 ** 31)-1
+    let min_Int = -(2 ** 31)
 
-      if (res < -2147483648 || res > 2147483647) {
-        return 0;
+    let res=0;
+
+    while(x !==0){
+        let digit = x % 10
+         x = Math.trunc(x/10)
+        res=res * 10 +digit
+
+        if(res < min_Int || res > max_Int){
+            return 0
+        }
     }
-     return Number(res)
+
+    return res
 };
