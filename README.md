@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sameeha1992/leetcode-practice/tree/master/0001-two-sum) |
+| [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
