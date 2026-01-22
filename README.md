@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
