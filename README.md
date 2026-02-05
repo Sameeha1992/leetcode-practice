@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sameeha1992/leetcode-practice/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
