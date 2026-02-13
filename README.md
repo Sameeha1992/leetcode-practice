@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sameeha1992/leetcode-practice/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
