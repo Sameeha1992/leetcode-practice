@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/0007-reverse-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
 | ------- |
