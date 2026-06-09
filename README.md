@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sameeha1992/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/3913-sort-vowels-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sameeha1992/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/3913-sort-vowels-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sameeha1992/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sameeha1992/leetcode-practice/tree/master/0242-valid-anagram) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/3913-sort-vowels-by-frequency) |
 <!---LeetCode Topics End-->
