@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameeha1992/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/Sameeha1992/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameeha1992/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sameeha1992/leetcode-practice/tree/master/0242-valid-anagram) |
 | [3913-sort-vowels-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/3913-sort-vowels-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
