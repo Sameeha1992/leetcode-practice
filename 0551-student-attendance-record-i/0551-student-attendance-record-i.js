@@ -5,14 +5,13 @@
 var checkRecord = function(s) {
     let absCount=0;
     let consLeav =0;
-    let maxCons=-Infinity
-    let sS = s.split("")
-
-    for(let i=0;i<sS.length;i++){
-       if(sS[i] === "A"){
+    
+    
+    for(let i=0;i<s.length;i++){
+       if(s[i] === "A"){
         absCount++
        }
-       if(sS[i] === "L"){
+       if(s[i] === "L"){
         consLeav++
         if(consLeav ===3) return false
     
