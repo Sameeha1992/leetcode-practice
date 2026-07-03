@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sameeha1992/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Sameeha1992/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sameeha1992/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sameeha1992/leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
