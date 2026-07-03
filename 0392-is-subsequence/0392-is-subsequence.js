@@ -17,5 +17,5 @@ var isSubsequence = function(s, t) {
             i++
         }
     }
-   return count === s.length
+   return j === s.length
 };
