@@ -4,19 +4,13 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-let freq={}
-if(s.length !== t.length) return false
-for(let i=0;i<s.length;i++){
-    freq[s[i]] = (freq[s[i]] ||0)+1
-}
 
-for(let j=0;j<t.length;j++){
-    if(freq[t[j]]){
-        freq[t[j]]--
-    }else{
-        return false
-    }
-}
+    let sRes=s.split("").sort().join("");
+    let tRes = t.split("").sort().join("")
+   if(sRes === tRes) return true
+   
+   return false
 
-return true
+
+
 };
