@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sameeha1992/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sameeha1992/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Sameeha1992/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sameeha1992/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameeha1992/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sameeha1992/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sameeha1992/leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
