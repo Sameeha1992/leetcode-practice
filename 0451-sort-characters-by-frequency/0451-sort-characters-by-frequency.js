@@ -12,9 +12,7 @@ var frequencySort = function(s) {
 
     let sortedData = Object.entries(freq).sort((a,b)=>b[1] -a[1]);
    for(let [key,count] of sortedData){
-    for(let i=0;i<count;i++){
-       res+=key
-    }
+    res+=key.repeat(count)
    }
   
   return res
