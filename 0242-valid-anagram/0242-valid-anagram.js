@@ -4,16 +4,18 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-let freq={}
+let sArray = new Array(26).fill(0);
+let a= "a".charCodeAt(0)
 if(s.length !== t.length) return false
+
 for(let i=0;i<s.length;i++){
-    freq[s[i]] = (freq[s[i]] ||0)+1
+    sArray[s.charCodeAt(i) - a]++;
+    sArray[t.charCodeAt(i) -a]--;
+
 }
 
-for(let j=0;j<t.length;j++){
-    if(freq[t[j]]){
-        freq[t[j]]--
-    }else{
+for(let count of sArray){
+    if(count !==0){
         return false
     }
 }
