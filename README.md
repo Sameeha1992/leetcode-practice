@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameeha1992/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/Sameeha1992/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sameeha1992/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Sameeha1992/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
