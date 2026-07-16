@@ -31,13 +31,10 @@ var gcdSum = function(nums) {
 
 
 function gcdFind(a,b){
-  let num1 = Math.abs(a);
-  let num2 = Math.abs(b);
-  while(num2 !==0){
-  let reminder = num1 % num2;
-  num1 = num2;
-  num2 = reminder;
+ 
+  while(b !==0){
+  [a,b] = [b,a%b]
        
   }
-  return  num1
+  return  a
 }
