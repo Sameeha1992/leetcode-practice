@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Sameeha1992/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/0007-reverse-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sameeha1992/leetcode-practice/tree/master/0682-baseball-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameeha1992/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sameeha1992/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3913-sort-vowels-by-frequency](https://github.com/Sameeha1992/leetcode-practice/tree/master/3913-sort-vowels-by-frequency) |
 ## Sliding Window
 |  |
@@ -161,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
