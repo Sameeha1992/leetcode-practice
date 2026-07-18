@@ -3,11 +3,15 @@
  * @return {number}
  */
 var findGCD = function(nums) {
-    let min= Infinity;
-    let max =- Infinity;
-    for(let i=0;i<nums.length;i++){
-      max = Math.max(max,nums[i]);
-      min = Math.min(min,nums[i]);
+    let min= nums[0]
+    let max =nums[0]
+    for(let i=1;i<nums.length;i++){
+    if(nums[i] < min){
+        min = nums[i]
+    }
+      if(nums[i] > max){
+        max = nums[i]
+      }
 
     }
 
