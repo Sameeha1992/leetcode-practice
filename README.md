@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sameeha1992/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Sameeha1992/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/Sameeha1992/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/0007-reverse-integer) |
+| [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -157,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sameeha1992/leetcode-practice/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sameeha1992/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
