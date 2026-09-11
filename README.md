@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sameeha1992/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sameeha1992/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sameeha1992/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sameeha1992/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sameeha1992/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sameeha1992/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
