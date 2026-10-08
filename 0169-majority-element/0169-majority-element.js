@@ -17,4 +17,14 @@ var majorityElement = function(nums) {
          }
     }
     return elem
+    let count1=0;
+    for(let i=0;i<nums.length;i++){
+         if(nums[i] === elem){
+            count1++
+         }
+    }
+    if(count1 > nums.length/2){
+        return elem
+    }
+    return -1
 };
