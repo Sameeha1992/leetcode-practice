@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sameeha1992/leetcode-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sameeha1992/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sameeha1992/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sameeha1992/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sameeha1992/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sameeha1992/leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
