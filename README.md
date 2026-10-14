@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sameeha1992/leetcode-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sameeha1992/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sameeha1992/leetcode-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sameeha1992/leetcode-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sameeha1992/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sameeha1992/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sameeha1992/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sameeha1992/leetcode-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sameeha1992/leetcode-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sameeha1992/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
