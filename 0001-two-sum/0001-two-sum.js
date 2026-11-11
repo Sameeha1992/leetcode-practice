@@ -4,20 +4,13 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let arr=[]
-for(let i=0;i<nums.length;i++){
-    let a = target - nums[i];
-    
-    if(nums.includes(a)){
-        let index = nums.indexOf(a);
+    let map = new Map()
+    for(let i=0;i<nums.length;i++){
+     let compl = target - nums[i];
 
-        if(index !==i){
-            arr.push(i);
-            arr.push(index)
-
-            return arr
-        }
+     if(map.has(compl)){
+        return [map.get(compl),i]
+     }
+     map.set(nums[i],i)
     }
-}
-console.log(arr)
 };
